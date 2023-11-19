@@ -45,7 +45,6 @@
           <div class="imgDiv">
             <img src="/imgs/resume.png" alt="" class="img" />
           </div>
-          <div class="btnDiv"><button class="btn">이력서 작성하기</button></div>
         </div>
         <div class="boxWrap" style="margin-left: 40px">
           <div style="display: flex; height: 50%">
